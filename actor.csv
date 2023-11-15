@@ -1,0 +1,461 @@
+id,full_name,count_of_movies
+1,"Gregory Hines",1
+2,"Christian Bale",2
+3,"Jet Li",2
+4,"Patrick Swayze",2
+5,"Denzel Washington",2
+6,"Richard Roundtree",1
+7,"Kim Ok-bin",1
+8,"Christopher Lambert",1
+9,"Bruce Willis",4
+10,"Nicolas Cage",2
+11,"Tony Jaa",2
+12,"Matilda Anna Ingrid Lutz",1
+13,"Carlos Gallardo",1
+14,"Feng Hsu",1
+15,"Tom Cruise",7
+16,"Sylvester Stallone",4
+17,"Brendan Fraser",1
+18,"Brad Pitt",1
+19,"Jackie Chan",5
+20,"Chris Evans",2
+21,"Harrison Ford",4
+22,"Jean-Claude Van Damme",1
+23,"Wesley Snipes",1
+24,"Martin Lawrence",1
+25,"Arnold Schwarzenegger",7
+26,"Chuck Norris",1
+27,"Clive Owen",1
+28,"Jason Statham",1
+29,"Danny Trejo",1
+30,"Ryan Gosling",1
+31,"Jack Nicholson",1
+32,"Steven Seagal",1
+33,"Will Smith",1
+34,"Steve McQueen",1
+35,"James McAvoy",1
+36,"Christopher Reeve",1
+37,"Robert De Niro",1
+38,"Roddy Piper",1
+39,"Robert Downey Jr.",3
+40,"Simon Pegg",1
+41,"Michael Beck",1
+42,"Casper Van Dien",1
+43,"Wagner Moura",1
+44,"Geena Davis",1
+45,"Dan Stevens",1
+46,"Liam Neeson",1
+47,"Gerard Butler",1
+48,"Sharlto Copley",1
+49,"Samuel Le Bihan",1
+50,"Colin Firth",1
+51,"Kurt Russell",2
+52,"Charlize Theron",1
+53,"Cyril Raffaelli",1
+54,"Eddie Murphy",1
+55,"Yu Rong-Guang",1
+56,"Tatsuya Fujiwara",1
+57,"Tobey Maguire",1
+58,"KÃ´ji Yakusho",1
+59,"Chow Yun-Fat",4
+60,"Stephen Chow",1
+61,"Ti Lung",1
+62,"Joe Taslim",1
+63,"Hugh Jackman",1
+64,"Sean Connery",2
+65,"Austin Stoker",1
+66,"Gal Gadot",1
+67,"Bruce Lee",2
+68,"Choi Min-sik",1
+69,"Gene Hackman",1
+70,"Vin Diesel",2
+71,"Anne Parillaud",1
+72,"Clint Eastwood",1
+73,"Patrick Stewart",1
+74,"Chadwick Boseman",1
+75,"Leonardo DiCaprio",1
+76,"Mel Gibson",3
+77,"Karl Urban",1
+78,"Matt Damon",2
+79,"Donnie Yen",1
+80,"John Travolta",1
+81,"William Petersen",1
+82,"Peter Weller",1
+83,"Keanu Reeves",4
+84,"Daniel Craig",1
+85,"Ansel Elgort",1
+86,"Iko Uwais",2
+87,"Russell Crowe",1
+88,"Uma Thurman",1
+89,"Jean Reno",1
+90,"Al Pacino",1
+91,"Sigourney Weaver",1
+92,"Tom Hardy",1
+93," Billy Crystal",1
+94," Emily Watson",1
+95," Tony Leung Chiu Wai",2
+96," Kelly Lynch",1
+97," Chris Pine",2
+98," Moses Gunn",1
+99," Shin Ha-kyun",1
+100," Sean Connery",2
+101," Bonnie Bedelia",2
+102," Diane Kruger",1
+103," Johnny Nguyen",1
+104," Kevin Janssens",1
+105," Consuelo GÃ³mez",1
+106," Chun Shih",1
+107," Kelly McGillis",1
+108," John Cusack",1
+109," Jason Statham",1
+110," Rachel Weisz",1
+111," Angelina Jolie",2
+112," Chris Tucker",1
+113," Marton Csokas",1
+114," Robert Downey Jr.",1
+115," Gary Oldman",3
+116," Donald Gibb",1
+117," Stephen Dorff",1
+118," Will Smith",1
+119," Jeremy Irons",1
+120," Maria Conchita Alonso",1
+121," Henry Silva",1
+122," Paul Giamatti",1
+123," Amy Smart",1
+124," Robert De Niro",2
+125," Carey Mulligan",1
+126," Michael Keaton",1
+127," Tommy Lee Jones",2
+128," Bill Pullman",1
+129," Robert Vaughn",1
+130," Morgan Freeman",1
+131," Gene Hackman",1
+132," Jean Reno",1
+133," Keith David",1
+134," John Lithgow",1
+135," Chris Evans",2
+136," Nick Frost",1
+137," James Remar",1
+138," Dina Meyer",1
+139," Irandhir Santos",1
+140," Keanu Reeves",1
+141," Samuel L. Jackson",4
+142," Maika Monroe",1
+143," Maggie Grace",1
+144," Lena Headey",2
+145," Jamie Lee Curtis",1
+146," Wesley Snipes",1
+147," Danila Kozlovsky",1
+148," Brigitte Lin",1
+149," Mark Dacascos",1
+150," Michael Caine",2
+151," Kim Cattrall",1
+152," James McAvoy",1
+153," Anita Mui",2
+154," David Belle",1
+155," Judge Reinhold",1
+156," Pumwaree Yodkamol",1
+157," Jamie Foxx",1
+158," Donnie Yen",2
+159," Ernest Borgnine",1
+160," Aki Maeda",1
+161," Kirsten Dunst",1
+162," Takayuki Yamada",1
+163," Simon Yam",2
+164," Yuen Wah",1
+165," Chow Yun-Fat",1
+166," Terrence Howard",1
+167," Iko Uwais",1
+168," Patrick Stewart",1
+169," Gert FrÃ¶be",1
+170," Darwin Joston",1
+171," Nora Miao",1
+172," Scarlett Johansson",2
+173," Yoo Ji-tae",1
+174," Fernando Rey",1
+175," Paul Walker",2
+176," Jean-Hugues Anglade",1
+177," Michelle Yeoh",2
+178," Harry Guardino",1
+179," Emily Blunt",1
+180," Hugh Jackman",1
+181," Michael B. Jordan",1
+182," Joseph Gordon-Levitt",1
+183," Sophie Marceau",1
+184," Colin Farrell",1
+185," Olivia Thirlby",1
+186," Franka Potente",1
+187," Nicolas Cage",2
+188," Willem Dafoe",2
+189," Heath Ledger",1
+190," Jeremy Renner",2
+191," Danny Glover",1
+192," Nancy Allen",1
+193," Common",1
+194," Eva Green",1
+195," Kevin Spacey",1
+196," Chin Siu Ho",1
+197," Danny Lee",1
+198," Yayan Ruhian",2
+199," John Saxon",1
+200," Rae Dawn Chong",1
+201," Richard Crenna",1
+202," Linda Hamilton",2
+203," Joaquin Phoenix",1
+204," Lucy Liu",1
+205," Dennis Hopper",1
+206," Ti Lung",1
+207," Michael Nyqvist",1
+208," Carl Weathers",1
+209," Julia Stiles",1
+210," Rachel Ticotin",1
+211," Bruce Spence",1
+212," Joe Taslim",1
+213," Henry Cavill",1
+214," Karen Allen",1
+215," Carrie Henn",1
+216," Bowie Lam",1
+217," Laurence Fishburne",2
+218," Alan Rickman",1
+219," Charlize Theron",1
+220," Jimmy Smits",1
+221," Taye Diggs",1
+222," Maggie Cheung",3
+223," Sam Elliott",1
+224," Rosario Dawson",1
+225," Christopher St. John",1
+226," Sung-joon",1
+227," Roxanne Hart",1
+228," William Atherton",1
+229," Justin Bartha",1
+230," Nathan Jones",1
+231," Vincent Colombe",1
+232," Reinol Martinez",1
+233," Pai Ying",1
+234," Anthony Edwards",1
+235," John Malkovich",1
+236," Jet Li",1
+237," John Hannah",1
+238," Vince Vaughn",1
+239," Tom Wilkinson",1
+240," ChloÃ« Grace Moretz",1
+241," Glenn Close",1
+242," Leah Ayres",1
+243," Kris Kristofferson",1
+244," TÃ©a Leoni",1
+245," Richard Dawson",1
+246," Bert Remsen",1
+247," Monica Bellucci",1
+248," Jose Pablo Cantillo",1
+249," Jessica Alba",1
+250," Bryan Cranston",1
+251," Kim Basinger",1
+252," Gary Busey",3
+253," Jeff Goldblum",1
+254," Jacqueline Bisset",1
+255," Marlon Brando",1
+256," Natascha McElhone",1
+257," Meg Foster",1
+258," Michael Rooker",1
+259," Mark Ruffalo",3
+260," Jim Broadbent",1
+261," Dorsey Wright",1
+262," Denise Richards",1
+263," AndrÃ© Ramiro",1
+264," Patrick Malahide",1
+265," Leland Orser",2
+266," Famke Janssen",1
+267," David Wenham",1
+268," Tom Arnold",1
+269," Sandra Bullock",2
+270," Haley Bennett",1
+271," Ã‰milie Dequenne",1
+272," Taron Egerton",1
+273," Ian Holm",1
+274," Dennis Dun",1
+275," Eddie Marsan",1
+276," Bill Tung",2
+277," Tony D'Amario",1
+278," John Ashton",1
+279," Phetthai Vongkumlao",2
+280," Jada Pinkett Smith",1
+281," Sze-Man Tsang",1
+282," Adrienne Barbeau",1
+283," Taro Yamamoto",1
+284," James Franco",1
+285," Yusuke Iseya",1
+286," Bonnie Fu",1
+287," Denholm Elliott",1
+288," Yuen Qiu",1
+289," Leslie Cheung",1
+290," Gwyneth Paltrow",1
+291," Julie Estelle",1
+292," Dafne Keen",1
+293," Honor Blackman",1
+294," Laurie Zimmer",1
+295," Connie Nielsen",2
+296," James Tien",1
+297," Kang Hye-jung",1
+298," Roy Scheider",1
+299," Dwayne Johnson",1
+300," TchÃ©ky Karyo",2
+301," Reni Santoni",1
+302," Brendan Gleeson",1
+303," Ian McKellen",1
+304," Sela Ward",1
+305," Lupita Nyong'o",1
+306," Elliot Page",1
+307," Patrick McGoohan",1
+308," Samantha Morton",1
+309," Chris Cooper",1
+310," Siu-wong Fan",1
+311," Joan Allen",2
+312," John Pankow",1
+313," Aaron Eckhart",1
+314," Simon Pegg",3
+315," Jordana Brewster",1
+316," Ed Harris",1
+317," Ronny Cox",2
+318," Mads Mikkelsen",1
+319," Lily James",1
+320," Billy Chow Bei-Lei",1
+321," Sally Yeh",1
+322," Arifin Putra",1
+323," Jim Kelly",1
+324," Dan Hedaya",1
+325," Brian Dennehy",1
+326," Michael Biehn",3
+327," Vivica A. Fox",1
+328," Natalie Portman",1
+329," Alfie Allen",1
+330," Zhang Ziyi",1
+331," Jesse Ventura",1
+332," Sharon Stone",1
+333," Emil Minty",1
+334," Val Kilmer",2
+335," Donny Alamsyah",1
+336," Ving Rhames",1
+337," Paul Freeman",1
+338," Philip Chan",1
+339," Carrie-Anne Moss",1
+340," Edward Furlong",1
+341," Nicholas Hoult",1
+342," Steven Bauer",1
+343," Angus Macfadyen",1
+344," Ben Gazzara",1
+345," Kevin Dunn",1
+346," Charles Cioffi",1
+347," Kim Seo-hyung",1
+348," Clancy Brown",1
+349," Reginald VelJohnson",2
+350," Sean Bean",1
+351," Guillaume BouchÃ¨de",1
+352," Peter Marquardt",1
+353," Roy Chiao",1
+354," Steve Buscemi",1
+355," Dolph Lundgren",1
+356," Arnold Vosloo",1
+357," Adam Brody",1
+358," Elizabeth PeÃ±a",1
+359," David Harbour",1
+360," Sebastian Stan",2
+361," Wendy Crewson",1
+362," Norman Burton",1
+363," N'Bushe Wright",1
+364," Graham Greene",1
+365," Yaphet Kotto",1
+366," Mike Genovese",1
+367," Daniel Pilon",1
+368," Efren Ramirez",1
+369," Steven Seagal",1
+370," Albert Brooks",1
+371," Robert Wuhl",1
+372," Erika Eleniak",1
+373," Mary McDonnell",1
+374," Don Gordon",1
+375," Terence Stamp",1
+376," Margot Kidder",1
+377," Stellan SkarsgÃ¥rd",1
+378," George "Buck"" Flower"",1
+379," Janine Turner",1
+380," Chris Hemsworth",2
+381," Paddy Considine",1
+382," Brian Tyler",1
+383," Jake Busey",1
+384," Pedro Van-Held",1
+385," Lori Petty",1
+386," Craig Bierko",1
+387," Sheila Kelley",1
+388," Dominic West",1
+389," Bill Paxton",2
+390," Nigel Hawthorne",1
+391," Darya Charusha",1
+392," Vincent Cassel",1
+393," Milla Jovovich",1
+394," James Hong",1
+395," John Goodman",1
+396," FranÃ§oise Yip",1
+397," Bibi Naceri",1
+398," Lisa Eilbacher",1
+399," Suchao Pongwilai",1
+400," Jean Wang",1
+401," Lee Van Cleef",1
+402," Masanobu AndÃ´",1
+403," Alfred Molina",1
+404," Goro Inagaki",1
+405," Wong Chow-Sang",1
+406," Alison Doody",1
+407," Siu-Lung Leung",1
+408," Emily Chu",1
+409," Jeff Bridges",1
+410," Sunny Pang",1
+411," Richard E. Grant",1
+412," Shirley Eaton",1
+413," Martin West",1
+414," Robin Wright",1
+415," Robert Baker",1
+416," Ji Dae-han",1
+417," Tony Lo Bianco",1
+418," Michelle Rodriguez",1
+419," Jeanne Moreau",1
+420," Kenneth Tsang",2
+421," John Larch",1
+422," Halle Berry",1
+423," Julianne Moore",1
+424," Danai Gurira",1
+425," Tom Hardy",1
+426," Catherine McCormack",1
+427," Max von Sydow",1
+428," Wood Harris",1
+429," Clive Owen",1
+430," Ka Tung Lam",1
+431," Alessandro Nivola",1
+432," Debra Feuer",1
+433," Paula Patton",1
+434," Tyrese Gibson",1
+435," Mitch Ryan",1
+436," Dan O'Herlihy",1
+437," Riccardo Scamarcio",1
+438," Judi Dench",1
+439," Jon Bernthal",1
+440," Yasuaki Kurata",1
+441," Oka Antara",1
+442," Ahna Capri",1
+443," Vernon Wells",2
+444," David Caruso",1
+445," Rebecca Ferguson",1
+446," Paul Winfield",1
+447," Oliver Reed",1
+448," Michael Madsen",1
+449," Danny Aiello",1
+450," Joe Morton",1
+451," Chia-Liang Liu",1
+452," Chang Chen",1
+453," Elpidia Carrillo",1
+454," David Strathairn",1
+455," Jon Voight",1
+456," Wolf Kahler",1
+457," Paul Reiser",1
+458," Hugo Weaving",1
+459," Robert Patrick",1
+460," Hugh Keays-Byrne",1
